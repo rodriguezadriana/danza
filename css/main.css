@@ -1,0 +1,113 @@
+
+/* Inserta tu codigo aqui */
+.centro{
+	left: 550px;
+	position: absolute;
+	font-size: 24px;
+}
+ul{
+	list-style: none;
+	
+	position: relative;
+	left: 350px;
+
+    
+	
+}
+li{
+	float: left;
+    display: block;
+    text-align: center;
+    margin: 40px 0px 0px 70px;
+    font-family: helvetica;
+    color: #999;
+   font-size: 14px;
+   
+}
+#foto_1{
+	background-image: url("../img/dance_1.jpg");
+	height: 400px;
+
+
+}
+.mar{
+	margin-top: 40px;
+}
+.studio{
+	font-size: 90px;
+}
+.studio1{
+	margin-left: 120px;
+}
+.boton1{
+	width: 110px;
+	height: 40px;
+	background-color:  #2E4053;
+}
+.studio2{
+	margin-left: 200px;
+}
+
+/* fin de la primera seccion */
+#fondo{
+	background-image: url("../img/textura_2.jpg");
+	height: 400px;
+}
+.size{
+	font-size: 24px;
+	
+}
+.decoration1{
+	width: 130px;
+	height: 130px;
+	margin-left: 570px;
+}
+.boton2{
+	width: 200px;
+	height: 50px;
+	background-color:  #2E4053;
+	margin-left: 550px;
+}
+.fotos{
+	height: 400px;
+	width: 600px;
+}
+.borde{
+	
+	border: 2px solid #2C3E50;
+}
+.size2{
+	font-size: 40px;
+}
+/* fin de la segunda seccion */
+#fon_azul{
+	background-color: #192951;
+	height: 350px;
+}
+.size3{
+	font-size: 14px;
+}
+.mapa{
+	margin-left: 200px;
+
+}
+.tamano{
+	width: 500px;
+	height: 200px;
+}
+span{
+	font-size: 32px;
+
+}
+/* inicia contactos */
+#zapatos{
+	background-image: url("../img/shoes_!.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 470px;
+}
+form{
+	width: 450px;
+	height: auto;
+	background: rgba(0,0,0,0.1);
+}
